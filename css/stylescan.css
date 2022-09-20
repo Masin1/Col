@@ -1,0 +1,117 @@
+body
+{
+  background-color: rgb(220, 231, 230);
+ 
+  
+}
+img
+{
+    position: relative;
+    top: 50px;
+    right: 20px;
+}
+.e{
+  background-color: orange;
+    width: 180px;
+    height: 400px;
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    padding: 0px 50px 100px 50px;
+
+}
+.b
+{
+  background-color: darkcyan;
+    width: 180px;
+    height: 400px;
+    position: absolute;
+    bottom: 10px;
+    left: 320px;
+    padding: 0px 50px 100px 50px;
+  }
+.c
+{
+  background-color: rgb(4, 65, 65);
+    width: 180px;
+    height: 400px;
+    position: absolute;
+    bottom: 10px;
+    left: 600px;
+    padding: 0px 50px 100px 50px;
+  
+}
+h1
+{
+  color: rgb(233, 229, 229);
+  font-family: 'Big Shoulders Display', cursive;
+  
+  line-height: 50px;
+  position: relative;
+    top: 50px;
+    right: 20px;
+}
+div
+{
+ 
+ margin-left: 220px;
+ margin-bottom: 50px;
+
+  
+}
+p
+{ 
+  font-size: 15px;
+  font-family:'Lexend Deca';
+  color: aliceblue;
+  padding: 10px;
+  line-height: 25px;
+  position: relative;
+  top: 50px;
+  right: 25px; 
+  
+}
+
+.btn
+{
+  padding: 15px;
+  background: #fcfdfd; 
+ /* background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+   background-image: -moz-linear-gradient(top, #3bb8bd, #2980b9);
+   background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+   background-image: -o-linear-gradient(top, #3498db, #2980b9);
+   background-image: linear-gradient( bottom, #3498db, #2980b9);*/
+   -webkit-border-radius: 25;
+   -moz-border-radius: 25;
+   border-radius: 50px;
+   border-color: #fcfdfd;
+   font-family: Arial;
+   color: orange;
+   font-size: 15px;
+   text-decoration: none;
+   position: relative;
+    top: 100px;
+    right: 20px;
+  
+}
+.btn:hover {
+  border-style: solid;
+  border-color: beige;
+  border-width: 1px;
+  background: transparent;
+  color: aliceblue;
+/* background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);*/
+  text-decoration: none;
+}
+.btn1
+{ 
+  color: darkcyan;
+}
+.btn2
+{
+ color:  rgb(6, 65, 65);
+}

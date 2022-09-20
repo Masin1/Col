@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        
 
+        <title>
+              Preview Card
+        </title>
+        <link rel="stylesheet" href="css/stylescan.css">
+         <link rel="icon" href="Images/favicon-32x32.png">
+         <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&family=Lexend+Deca:wght@200&family=Merriweather&family=Merriweather+Sans&family=Sacramento&family=Saira&display=swap" rel="stylesheet">
+         
+    </head>
+  <body>
+
+    
+   <div class="e">
+    <img src="Images/icon-sedans.svg">
+ 
+    <H1>SEDANS</H1> <p> Choose a sedan for its affordability and excellent fuel economy.Ideal for cruising in the city or on your next road trip.
+       
+  </p>
+    <a class="btn" href="mailto:meenuannie0@gmail.com">Learn more</a>
+  </div>
+
+ <div class="b">  <img src="Images/icon-suvs.svg"> <h1>SUVS</h1>
+<p >
+    Take an SUV for its spacious interior,power and versatility.
+    Perfect for your next family vacation and off-road adventure.</p>
+    <a class="btn btn1" href="mailto:meenuannie0@gmail.com">
+      Learn more</a>  
+          </div> 
+
+    <div class="c">
+        <img src="Images/icon-luxury.svg">
+
+        <h1>LUXURY</h1>
+        <p>Cruise in the best car brands without the bloated prices.
+            Enjoy the enhanced comfort of a luxury rental and arrive
+            in style.</p>
+        <a class="btn btn2" href="mailto:meenuannie0@gmail.com">Learn more</a> </div>
+    
+
+  </body>
+</html>
